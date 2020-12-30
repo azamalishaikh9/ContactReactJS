@@ -1,0 +1,52 @@
+@import '~@fullcalendar/core/main.css';
+@import '~@fullcalendar/daygrid/main.css';
+
+/* body{
+  background: #899be7;
+  font-size: 20px;
+}
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.app-title{
+  color: #899be7;
+  text-align: center;
+}
+
+.container{
+  text-align: center;
+  color: black;
+}
+
+ul{
+  list-style-type: none;
+}
+
+li{
+  background: snow;
+  color: black;
+  width: fit-content;
+}
+.btn {
+  margin-left: 10px;
+} */
+
+.demo-app {
+  font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.demo-app-top {
+  margin: 0 0 3em;
+}
+
+.demo-app-calendar {
+  margin: 0 auto;
+  max-width: 100px;
+  
+}
